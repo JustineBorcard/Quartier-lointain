@@ -1,0 +1,30 @@
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ffffff;
+}
+
+.nav-discover {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 29.64px;
+  letter-spacing: 0.07em;
+  padding: 32px 135px;
+}
+
+.nav-buy {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 29.64px;
+  letter-spacing: 0.07em;
+  color: #0a3856;
+  border: 3px solid #0a3856;
+  padding: 5px 15px;
+  border-radius: 33px;
+  margin: 24px 185px 24px;
+}
+
+.shop-nav-buy {
+  margin-right: 130px;
+}

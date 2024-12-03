@@ -1,0 +1,129 @@
+/* .footer {
+  background: #0a3856;
+  padding: 60px 0 200px 240px;
+}
+
+/* .footer-bd-container {
+  display: flex;
+} */
+/* 
+.footer-bd {
+  color: #ffffff;
+  font-family: Oswald;
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 74.1px;
+  letter-spacing: 0.07em;
+}
+
+.footer-autor {
+  color: #ffffff;
+  font-family: Pathway Extreme;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21.7px;
+  letter-spacing: 0.07em;
+}
+
+.footer-edition-container {
+  position: absolute;
+}
+
+.footer-edition {
+  color: #ffffff;
+  font-family: Oswald;
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 74.1px;
+  letter-spacing: 0.07em;
+}
+
+.footer-infos {
+  background-color: #0a3856;
+  color: rgb(255, 255, 255);
+  font-family: Pathway Extreme;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18.98px;
+  letter-spacing: 0.07em;
+} */
+/* */
+.footer {
+  background: #0a3856;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  padding: 60px 0 200px 240px;
+}
+
+.footer-bd-container {
+  flex: 1;
+}
+
+.footer-bd {
+  font-family: "Oswald", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  color: #ffffff;
+  line-height: 1.2;
+  margin: 0;
+}
+
+.footer-author {
+  font-family: "Pathway Extreme", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #ffffff;
+  margin-top: 10px;
+}
+
+.footer-edition-container {
+  flex: 1;
+  text-align: right;
+}
+
+.footer-edition {
+  font-family: "Oswald", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  color: #ffffff;
+  line-height: 1.2;
+  text-align: left;
+}
+
+.footer-infos {
+  font-family: "Pathway Extreme", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+  margin-top: 10px;
+  text-align: left;
+}
+
+.footer-infos a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.footer-social-icons {
+  margin-top: 10px;
+}
+
+.footer-social-icons a {
+  margin-right: 10px;
+  display: inline-block;
+}
+
+.footer-legal {
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.6);
+  font-family: Pathway Extreme;
+  font-size: 15px;
+  font-weight: 250;
+  line-height: 20.34px;
+  letter-spacing: 0.07em;
+  text-align: right;
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 900px;
+}

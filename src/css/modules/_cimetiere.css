@@ -1,0 +1,21 @@
+.cimetiere-container {
+  background: url("../../../img/fond_cimetiere.webp");
+  background-size: 100%;
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+
+.cimetiere-perso {
+  height: 700px;
+  position: absolute;
+  bottom: -100;
+  left: 60%;
+  transform: scale(1);
+}
+.space-top {
+  padding-top: 100px;
+}

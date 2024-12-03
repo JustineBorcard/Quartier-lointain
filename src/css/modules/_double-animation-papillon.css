@@ -1,0 +1,120 @@
+.container-double-animation {
+  position: relative;
+  overflow: hidden;
+}
+.container-papillon {
+  height: 4000px;
+}
+.papillon {
+  position: absolute;
+  width: 25%;
+  top: -230px;
+  left: 3%;
+}
+
+.papillon-img {
+  width: 100%;
+}
+
+#path {
+  opacity: 10%;
+}
+
+.fenetre {
+  position: absolute;
+  width: 40%;
+  top: 150px;
+  left: -30%;
+}
+
+.fenetre-img {
+  width: 100%;
+}
+
+.moto {
+  position: absolute;
+  width: 40%;
+  top: 650px;
+  right: -100%;
+}
+
+.moto-img {
+  width: 100%;
+}
+
+.nuage {
+  position: absolute;
+  width: 40%;
+  top: 1050px;
+  left: -100%;
+}
+
+.nuage-img {
+  width: 100%;
+}
+
+.gifle {
+  position: absolute;
+  width: 40%;
+  top: 1625px;
+  right: -100%;
+}
+
+.gifle-img {
+  width: 100%;
+}
+
+.under {
+  position: absolute;
+  width: 20%;
+  top: 3350px;
+  left: 10%;
+}
+
+.under-img {
+  width: 100%;
+}
+
+.get-out {
+  position: absolute;
+  width: 20%;
+  top: 4200px;
+  right: 42%;
+}
+
+.get-out-img {
+  width: 100%;
+}
+
+.in {
+  position: absolute;
+  width: 25%;
+  top: 5000px;
+  right: 10%;
+}
+
+.in-img {
+  width: 100%;
+}
+
+.garcon-fille {
+  position: absolute;
+  width: 40%;
+  top: 3000px;
+  left: -100%;
+}
+
+.garcon-fille-img {
+  width: 100%;
+}
+
+.hiroshi-dos {
+  position: absolute;
+  width: 25%;
+  top: 3200px;
+  right: -100%;
+}
+
+.hiroshi-dos-img {
+  width: 100%;
+}

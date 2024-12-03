@@ -1,0 +1,55 @@
+.shop {
+  background: url(../../../img/papillon-shop.webp);
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position-x: -90%;
+  background-position-y: 70%;
+  padding-bottom: 300px;
+}
+
+.shop-titre {
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 94.85px;
+  letter-spacing: 0.07em;
+  text-align: left;
+  margin: 0 0 25px 125px;
+  padding-top: 150px;
+}
+
+.shop-autor {
+  font-family: Pathway Extreme;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 35.26px;
+  letter-spacing: 0.07em;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  margin: 0 0 45px 125px;
+}
+
+.shop-synopsis {
+  font-family: Pathway Extreme;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 20.34px;
+  letter-spacing: 0.07em;
+  text-align: left;
+  margin: 0 0 100px 125px;
+}
+
+.shop-buy {
+  color: #0a3856;
+  border: 3px solid #0a3856;
+  padding: 5px 15px;
+  border-radius: 33px;
+  margin: 0 0 100px 125px;
+}
+
+.shop-book {
+  display: flex;
+  height: 800px;
+  position: absolute;
+  left: 55%;
+}
